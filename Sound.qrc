@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>sounds/bad2.wav</file>
+        <file>sounds/click2.wav</file>
+        <file>sounds/combo22.wav</file>
+        <file>sounds/excellent1.wav</file>
+        <file>sounds/gemongem2.wav</file>
+        <file>sounds/go1.wav</file>
+        <file>sounds/goodbye1.wav</file>
+        <file>sounds/gotset2.wav</file>
+        <file>sounds/menuclick.wav</file>
+        <file>sounds/select.wav</file>
+        <file>sound.wav</file>
+    </qresource>
+</RCC>
